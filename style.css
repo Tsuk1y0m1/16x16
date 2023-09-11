@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0 auto;
+    text-align: center;
+}
+
+button {
+    font-size: 1rem;
+    padding: 1rem 3rem;
+    background: rgb(0, 0, 0);
+    color: whitesmoke;
+    margin: 2rem 0;
+    border: none;
+} 
+button:hover{
+    color: rgb(236, 224, 108);
+    background: rgb(63, 60, 60);
+}
